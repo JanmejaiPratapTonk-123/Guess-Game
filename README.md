@@ -1,0 +1,1 @@
+A Game in which you have guess the number between 0 and 100, which is chosen by the system.
